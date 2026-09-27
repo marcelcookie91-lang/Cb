@@ -1,0 +1,1 @@
+screen -A -m -d -S MCbyPatty java -Xms1G -Xms1G -jar spigot.jar
